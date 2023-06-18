@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MapScreen.qml</file>
+        <file>GoogleMapPlugin.qml</file>
+        <file>CButton.qml</file>
+        <file>CButtonImage.qml</file>
+        <file>icon/fitview.png</file>
+        <file>icon/homemarker.png</file>
+        <file>icon/location.png</file>
+    </qresource>
+</RCC>
