@@ -6,7 +6,7 @@ import QtPositioning 5.15
 Item {
     id: rootId
 
-    property bool gpstrack: false
+    property bool gpstrack: true
     property int mapType: 0
     property var maptypes: ["Map View", "Satellite View", "Terrain View", "Hybrid View"]
 
