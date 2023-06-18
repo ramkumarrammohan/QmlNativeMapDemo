@@ -11,3 +11,7 @@ For simple demo here I have added following features
 2. zoom out
 3. gps tracking - enable | disable
 4. fit to current position
+
+![](demo.gif)
+
+![](demo.mp4)
